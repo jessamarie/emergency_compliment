@@ -2,7 +2,7 @@
 
 (function () {
   angular
-  .module('emergencycomp', [
+  .module('angularComp', [
     'ui.router'
   ])
 })
